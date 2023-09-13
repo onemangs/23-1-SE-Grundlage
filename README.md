@@ -14,7 +14,7 @@ Anschließend das Projekt in VSCode öffnen:
 
 ``powershell
 
-#öffne VScodeim aktuellen Ordner
+#öffne VS codeim aktuellen Ordner
 code  .
 ``
 
