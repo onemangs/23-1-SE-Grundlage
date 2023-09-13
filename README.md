@@ -14,11 +14,11 @@ Anschließend das Projekt in VSCode öffnen:
 
 ``powershell
 
-#öffne VS codeim aktuellen Ordner
+#öffne VS code im aktuellen Ordner
 code  .
 ``
 
-## Contibuting 
+## Contributing 
 
 Aktuell werden **keine** Contributer gesucht.
 
