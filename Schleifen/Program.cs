@@ -15,3 +15,9 @@ do
 
   
 } while (itercount > 0);
+
+Console.WriteLine("FOR LOOP");
+for (int i = 0; i < 10; i++)
+{
+  Console.WriteLine("FOR") ;
+}
